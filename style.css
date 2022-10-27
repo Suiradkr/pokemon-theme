@@ -1,0 +1,39 @@
+#TopPokemon {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+
+    
+}
+
+#TypeFamily, img {
+
+    /* margin: auto; */
+    /* width: 50%;
+    border: 3px solid green;
+    padding: 10px; */
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+  
+    padding: 10px;
+}
+
+  #button{
+    display: flex;
+    margin: auto;
+    width: 50%
+}
+
+ .pokemon {
+    display: flex;
+    margin: auto;
+ }
+
+ body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    
+}
